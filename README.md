@@ -32,6 +32,6 @@ The feature extraction process involves the following steps:
 ### Usage <a name="usage"></a>
 To use the Music_GenreMaster project, you can clone the repository to your local machine:
 ```bash
-git clone https://github.com/suhanasulthana/Music_GenreMaster.git
+git clone https://github.com/SuhanaSulthana/Music_GenreMaster.git
 ```
 Note: Remember to cite the GTZAN genre collection dataset appropriately if you use it for research or other purposes.
