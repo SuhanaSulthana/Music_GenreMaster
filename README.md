@@ -14,7 +14,7 @@ Music_GenreMaster is an innovative music genre classification system that levera
 
 ### Dataset <a name="dataset"></a>
 This project focuses on classifying music genres using the GTZAN genre collection dataset. The dataset consists of 1000 audio files, each with a duration of 30 seconds. It comprises 10 music genres, with each genre containing 100 audio tracks in .wav format.
-The GTZAN genre collection dataset can be accessed [here](https://example.com/dataset).
+The GTZAN genre collection dataset can be accessed [here](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification?resource=download).
 
 
 
